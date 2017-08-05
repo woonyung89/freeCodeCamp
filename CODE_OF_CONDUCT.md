@@ -27,7 +27,7 @@ advances
 * Trolling, insulting/derogatory comments, and personal or political attacks
 * Public or private harassment
 * Publishing others' private information, such as a physical or electronic
-  address, without explicit permission
+  address, without explicit permissionCONTRIBUTING.md
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
 
@@ -72,3 +72,4 @@ available at [http://contributor-covenant.org/version/1/4][version]
 
 [homepage]: http://contributor-covenant.org
 [version]: http://contributor-covenant.org/version/1/4/
+demobranch demo testing
