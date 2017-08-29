@@ -22,7 +22,7 @@ function buildUserUpdate(
   const alreadyCompleted = !!oldChallenge;
 
 
-  if (alreadyCompleted) {
+  if () {
     // add data from old challenge
     finalChallenge = {
       ...completedChallenge,
